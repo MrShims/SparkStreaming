@@ -1,0 +1,1 @@
+{"type":"record","name":"MessageEventAvro","namespace":"com.example","fields":[{"name":"id","type":"long"},{"name":"message","type":"string"}]}

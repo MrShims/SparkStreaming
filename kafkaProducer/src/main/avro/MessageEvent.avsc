@@ -1,0 +1,9 @@
+{
+  "type": "record",
+  "name": "MessageEventAvro",
+  "namespace": "com.example",
+  "fields": [
+    { "name": "id", "type": "string" },
+    { "name": "message", "type": "string" }
+  ]
+}
